@@ -51,4 +51,8 @@ The solution is implemented in Python using `scipy.optimize.curve_fit` to minimi
 3.  The script will output the calculated values for $c$, $\lambda$, and $\mu$ and generate a plot comparing the model to the actual data distribution.
 
 ## Results
-The calculated parameters obtained from the fitting process are submitted via the official assignment form.
+The calculated parameters obtained from the fitting process are c=0.06551080215498165, lam=0.021433432187289138, mu=14.282896608475193.
+The plot below shows the histogram of the actual data (blue) and the fitted Gaussian curve (red).
+
+<img width="556" height="413" alt="image" src="https://github.com/user-attachments/assets/f3dbfe97-12a9-4131-8d3a-36500957db76" />
+
