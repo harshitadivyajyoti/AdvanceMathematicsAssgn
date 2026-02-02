@@ -5,10 +5,9 @@ This project performs statistical modeling on Air Quality Data ($NO_2$ levels) t
 
 **Dataset Used:** [India Air Quality Data (Kaggle)](https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data)
 
-## Student Details
+
 * **Roll Number:** 102317208
-* **Assignment:** 1
-* **Subject:** Machine Learning
+
 
 ## Mathematical Formulation
 
