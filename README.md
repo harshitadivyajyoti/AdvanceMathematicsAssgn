@@ -46,7 +46,7 @@ The solution is implemented in Python using `scipy.optimize.curve_fit` to minimi
 1.  Place the `city_day.csv` file in the same directory.
 2.  Run the script:
     ```bash
-    python assignment1.py
+    predanalysispdf.py
     ```
 3.  The script will output the calculated values for $c$, $\lambda$, and $\mu$ and generate a plot comparing the model to the actual data distribution.
 
